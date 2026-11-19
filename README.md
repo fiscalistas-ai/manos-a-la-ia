@@ -20,15 +20,21 @@ Las fechas futuras son tentativas hasta confirmarse los eventos. Los materiales 
 ## Cómo empezar
 
 1. Abre la carpeta del episodio y lee su `README.md`.
-2. Copia los prompts en Claude o ChatGPT según corresponda.
-3. Descarga los archivos de práctica cuando estén disponibles.
-4. Consulta `VALIDACION.md` para conocer resultados de referencia, pruebas y limitaciones.
+2. Descarga el [Excel de práctica del episodio 01](episodios/01-dashboard/movimientos.xlsx).
+3. Copia los [prompts del episodio 01](episodios/01-dashboard/prompts/) en Claude o ChatGPT según corresponda.
+4. Consulta [VALIDACION.md](episodios/01-dashboard/VALIDACION.md) para conocer resultados de referencia, pruebas y limitaciones.
+5. Explora el [dashboard de ejemplo](episodios/01-dashboard/dashboard-ejemplo.html) como referencia de un ensayo previo.
 
 Consulta la [guía de inicio](recursos/como-empezar.md).
 
-## Publicación de archivos
+## Materiales publicados del episodio 01
 
-Los prompts y la documentación del episodio 01 ya están disponibles. **La subida del Excel y del HTML de ensayo está pendiente**; se indicará aquí cuando se publiquen. No confundas el HTML del ensayo con el resultado de la transmisión.
+- [Excel de práctica · movimientos.xlsx](episodios/01-dashboard/movimientos.xlsx)
+- [Dashboard de ejemplo · dashboard-ejemplo.html](episodios/01-dashboard/dashboard-ejemplo.html)
+- [Prompts](episodios/01-dashboard/prompts/)
+- [Documentación y guía del episodio](episodios/01-dashboard/)
+
+**Nota:** el HTML es un ejemplo desarrollado durante la preparación del episodio; no debe confundirse con el dashboard generado durante la transmisión en vivo.
 
 ## Alcance
 
