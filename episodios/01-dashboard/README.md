@@ -7,19 +7,19 @@
 
 Partimos de 240 movimientos contables ficticios de nueve columnas, en una sola hoja llamada `Movimientos`. Claude construyó un dashboard y se le pidió incorporar un indicador de margen. ChatGPT realizó cálculos independientes y revisiones del HTML.
 
-## Materiales
+## Materiales disponibles
 
-- [Prompts](prompts/): cinco instrucciones completas; los prompts 1–4 corresponden a construcción y auditoría, mientras que el 5 es una **evolución posterior** hacia un dashboard reutilizable.
+- [Descargar Excel de práctica · movimientos.xlsx](movimientos.xlsx): contiene exclusivamente la hoja `Movimientos`.
+- [Descargar dashboard de ejemplo · dashboard-ejemplo.html](dashboard-ejemplo.html): versión preparada durante ensayos previos; no necesariamente corresponde al archivo producido durante la transmisión. Descárgalo y ábrelo localmente en tu navegador.
+- [Prompts](prompts/): cinco instrucciones completas. Los prompts 1–4 corresponden a construcción y auditoría; el 5 propone una **evolución posterior** hacia un dashboard reutilizable.
 - [Validación](VALIDACION.md): cifras de referencia y límites de las comprobaciones.
-- **Excel `movimientos-ficticios.xlsx`: pendiente de subida**. Contendrá exclusivamente la hoja `Movimientos`.
-- **HTML `dashboard-v3-ensayo.html`: pendiente de subida**. Es una versión preparada durante ensayos previos, no necesariamente el archivo producido durante la transmisión.
 
 ## Cómo reproducir
 
-1. Descarga el Excel de práctica cuando esté publicado y adjúntalo a una conversación nueva de Claude.
+1. Descarga [movimientos.xlsx](movimientos.xlsx) y adjúntalo a una conversación nueva de Claude.
 2. Ejecuta [Prompt 1](prompts/01-claude-construccion.md) y luego [Prompt 2](prompts/02-claude-margen.md).
 3. En una conversación independiente de ChatGPT, adjunta el mismo Excel y ejecuta [Prompt 3](prompts/03-chatgpt-auditoria-excel.md).
 4. Adjunta el HTML obtenido de Claude y ejecuta [Prompt 4](prompts/04-chatgpt-auditoria-html.md).
 5. Compara resultados y documenta diferencias. El [Prompt 5](prompts/05-evolucion-dashboard-reutilizable.md) se reserva para la evolución posterior.
 
-No se requieren datos reales.
+No se requieren datos reales. El dashboard de ejemplo es material de referencia, no una sustitución del ejercicio.
