@@ -11,7 +11,7 @@ Biblioteca pública de prácticas de [Fiscalistas.AI](https://fiscalistas.ai/). 
 | Episodio | Práctica | Materiales | Video |
 |---|---|---|---|
 | 01 · 18 nov 2026 | De Excel a dashboard con IA | [Abrir práctica](episodios/01-dashboard/) | [Ver transmisión](https://www.youtube.com/live/44lfNpzv--E) |
-| 02 · 25 nov 2026 | Dashboard reutilizable | Se publicarán después del episodio | Por anunciar |
+| 02 · 25 nov 2026 | Dashboard reutilizable | [Abrir práctica](episodios/02-dashboard-reutilizable/) | [Ver transmisión](https://youtube.com/live/XhJnVCZx3W8) |
 | 03 · 2 dic 2026 | Conciliador de CFDI y pagos | Se publicarán después del episodio | Por anunciar |
 | 04 · 9 dic 2026 | Analizador de XML de nómina | Se publicarán después del episodio | Por anunciar |
 
@@ -23,7 +23,7 @@ Las fechas futuras son tentativas hasta confirmarse los eventos. Los materiales 
 2. Descarga el [Excel de práctica del episodio 01](episodios/01-dashboard/movimientos.xlsx).
 3. Copia los [prompts del episodio 01](episodios/01-dashboard/prompts/) en Claude o ChatGPT según corresponda.
 4. Consulta [VALIDACION.md](episodios/01-dashboard/VALIDACION.md) para conocer resultados de referencia, pruebas y limitaciones.
-5. Explora el [dashboard de ejemplo](episodios/01-dashboard/dashboard-ejemplo.html) como referencia de un ensayo previo.
+5. Explora el [dashboard de ejemplo](episodios/01-dashboard/dashboard-ejemplo.html) como resultado de la sesión en vivo.
 
 Consulta la [guía de inicio](recursos/como-empezar.md).
 
@@ -34,7 +34,7 @@ Consulta la [guía de inicio](recursos/como-empezar.md).
 - [Prompts](episodios/01-dashboard/prompts/)
 - [Documentación y guía del episodio](episodios/01-dashboard/)
 
-**Nota:** el HTML es un ejemplo desarrollado durante la preparación del episodio; no debe confundirse con el dashboard generado durante la transmisión en vivo.
+**Nota:** el HTML corresponde a la versión final de la sesión en vivo, confirmada por el presentador.
 
 ## Alcance
 
