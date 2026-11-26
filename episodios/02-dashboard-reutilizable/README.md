@@ -8,7 +8,8 @@
 - [Dashboard base E01](../01-dashboard/dashboard-ejemplo.html)
 - [Excel original (240 movimientos)](../01-dashboard/movimientos.xlsx)
 - [Dashboard reutilizable v4 de la sesión en vivo](dashboard-reutilizable.html): descarga y abre localmente en Chrome o Edge actualizado.
-- Excel nuevo (48 movimientos) e inválido: pendientes de transferencia.
+- [Excel nuevo (48 movimientos)](movimientos-nuevos.xlsx)
+- [Excel inválido para pruebas de rechazo](movimientos-invalidos.xlsx)
 - [Cinco prompts de la práctica](prompts/)
 - [Validación y limitaciones](VALIDACION.md)
 
